@@ -77,7 +77,14 @@ Usually somewhere between a technical rabbit hole and a completely unrelated sid
 
 ---
 
+<br>
+
 ## `04 / PROJECTS`
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ### `01` — F1 Performance Analyzer
 
@@ -85,9 +92,15 @@ Usually somewhere between a technical rabbit hole and a completely unrelated sid
 
 Analyzing Formula 1 performance and extracting insights from race data.
 
-[View Project →](https://github.com/Harshadha-S/F1-Performance-Analyzer)
+<br>
 
----
+<a href="https://github.com/Harshadha-S/F1-Performance-Analyzer">
+View Project →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### `02` — Space Suit Thermal Analysis
 
@@ -95,9 +108,19 @@ Analyzing Formula 1 performance and extracting insights from race data.
 
 Exploring thermal behavior and analysis related to spacesuit systems.
 
-[View Project →](https://github.com/Harshadha-S/space-suit-thermal-analysis)
+<br>
 
----
+<a href="https://github.com/Harshadha-S/space-suit-thermal-analysis">
+View Project →
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### `03` — STARTO
 
@@ -105,7 +128,20 @@ Exploring thermal behavior and analysis related to spacesuit systems.
 
 A project built to explore and experiment with technical problem-solving.
 
-[View Project →](https://github.com/Harshadha-S/STARTO)
+<br>
+
+<a href="https://github.com/Harshadha-S/STARTO">
+View Project →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+</td>
+
+</tr>
+</table>
 
 ---
 
