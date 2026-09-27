@@ -10,8 +10,6 @@
 
 *Hmmm, Cause Why Not?*
 
-</div>
-
 ---
 
 ## `01 / ABOUT`
@@ -26,56 +24,27 @@ Usually somewhere between a technical rabbit hole and a completely unrelated sid
 
 ## `02 / CURRENT ARC`
 
-<table>
-<tr>
-<td width="50%">
-
 ### Machine Learning
 
 `████████░░`
-
-</td>
-<td width="50%">
 
 ### Cybersecurity
 
 `███████░░░`
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
 ### Networking
 
 `███████░░░`
-
-</td>
-<td width="50%">
 
 ### DSA
 
 `████████░░`
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
 ### Open Source
 
 `██████░░░░`
 
-</td>
-<td width="50%">
-
 ### Side Quest `∞`
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -130,17 +99,12 @@ A project built to explore and experiment with technical problem-solving.
 [View Project →](https://github.com/Harshadha-S/STARTO)
 
 ---
-<div align="center"> <br> <img src="./gojocat.jpg" width="180" alt="Gojo Cat">
 
-<br><br>
+[Gojo Cat](https://github.com/Harshadha-S/Harshadha-S/blob/main/gojocat.jpg) ([image](https://github.com/Harshadha-S/Harshadha-S/raw/main/gojocat.jpg))
 
 ∞
 
-still somewhere in the domain.
+*still somewhere in the domain.*
 
-<br>
-
-thanks for entering the domain.
-
-</div> ```
-
+*thanks for entering the domain.*
+</div>
