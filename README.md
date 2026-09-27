@@ -30,30 +30,49 @@ Usually somewhere between a technical rabbit hole and a completely unrelated sid
 
 </div>
 
-
+---
 ## `02 / CURRENT ARC`
 
-### Machine Learning
+<table>
+<tr>
 
-`████████░░`
+<td width="50%" valign="top">
 
-### Cybersecurity
+### `01` MACHINE LEARNING
 
-`███████░░░`
+`LIMITLESS · ACTIVE`
+<br>
 
-### Networking
+### `02` CYBERSECURITY
 
-`███████░░░`
+`SIX EYES · ACTIVE`
+<br>
 
-### DSA
+### `03` NETWORKING
 
-`████████░░`
+`DOMAIN · ACTIVE`
+</td>
 
-### Open Source
+<td width="50%" valign="top">
 
-`██████░░░░`
+### `04` DSA
 
-### Side Quest `∞`
+`TECHNIQUE · ACTIVE`
+
+<br>
+
+### `05` OPEN SOURCE
+
+`EXPLORATION · ACTIVE`
+<br>
+
+### `∞` SIDE QUEST
+
+`UNDEFINED · ACTIVE`
+</td>
+
+</tr>
+</table>
 
 ---
 
