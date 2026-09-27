@@ -30,20 +30,16 @@ Usually somewhere between a technical rabbit hole and a completely unrelated sid
 <tr>
 <td width="50%">
 
-### 🧠 Machine Learning
+### Machine Learning
 
 `████████░░`
-
-Exploring models, algorithms, and the systems behind them.
 
 </td>
 <td width="50%">
 
-### 🔐 Cybersecurity
+### Cybersecurity
 
 `███████░░░`
-
-Learning security through systems, vulnerabilities, and experimentation.
 
 </td>
 </tr>
@@ -51,20 +47,16 @@ Learning security through systems, vulnerabilities, and experimentation.
 <tr>
 <td width="50%">
 
-### 🌐 Networking
+### Networking
 
 `███████░░░`
-
-Understanding how systems communicate beyond the application layer.
 
 </td>
 <td width="50%">
 
-### ⚔️ DSA
+### DSA
 
 `████████░░`
-
-Building problem-solving depth one data structure at a time.
 
 </td>
 </tr>
@@ -72,20 +64,14 @@ Building problem-solving depth one data structure at a time.
 <tr>
 <td width="50%">
 
-### 🌱 Open Source
+### Open Source
 
 `██████░░░░`
 
-Reading codebases, contributing, and learning from real projects.
-
 </td>
 <td width="50%">
 
-### 🌀 Side Quest
-
-`∞`
-
-There is always another rabbit hole.
+### Side Quest `∞`
 
 </td>
 </tr>
