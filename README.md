@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Harshadha-S/Harshadha-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./gojo-header.png" width="100%" alt="Domain Expansion">
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Hi, I'm Harshadha </h1>
+
+<p>
+  <strong>Computer Science × Data Science</strong>
+</p>
+
+<p>
+  Hmmm, Cause Why Not?
+</p>
+
+</div>
