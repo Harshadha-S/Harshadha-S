@@ -29,7 +29,7 @@ Usually somewhere between a technical rabbit hole and a completely unrelated sid
   alt="GitHub Activity Graph">
 
 </div>
----
+
 
 ## `02 / CURRENT ARC`
 
