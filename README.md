@@ -41,16 +41,19 @@ Usually somewhere between a technical rabbit hole and a completely unrelated sid
 ### `01` MACHINE LEARNING
 
 `LIMITLESS · ACTIVE`
+
 <br>
 
 ### `02` CYBERSECURITY
 
 `SIX EYES · ACTIVE`
+
 <br>
 
 ### `03` NETWORKING
 
 `DOMAIN · ACTIVE`
+
 </td>
 
 <td width="50%" valign="top">
@@ -64,11 +67,13 @@ Usually somewhere between a technical rabbit hole and a completely unrelated sid
 ### `05` OPEN SOURCE
 
 `EXPLORATION · ACTIVE`
+
 <br>
 
 ### `∞` SIDE QUEST
 
 `UNDEFINED · ACTIVE`
+
 </td>
 
 </tr>
