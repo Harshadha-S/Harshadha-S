@@ -100,11 +100,10 @@ A project built to explore and experiment with technical problem-solving.
 
 ---
 
-[Gojo Cat](https://github.com/Harshadha-S/Harshadha-S/blob/main/gojocat.jpg) ([image](https://github.com/Harshadha-S/Harshadha-S/raw/main/gojocat.jpg))
+<div align="center"> <br> <img src="./gojocat.jpg" width="180" alt="Gojo Cat">
 
+<br><br>
 ∞
-
 *still somewhere in the domain.*
-
 *thanks for entering the domain.*
 </div>
