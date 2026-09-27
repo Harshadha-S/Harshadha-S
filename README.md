@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./gojo-header.png" width="100%" alt="Domain Expansion">
+<img src="./gojo.jpg" width="100%" alt="Domain Expansion">
 
 <br><br>
 
