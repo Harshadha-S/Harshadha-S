@@ -20,6 +20,15 @@ Currently wandering through machine learning, cybersecurity, networking, systems
 
 Usually somewhere between a technical rabbit hole and a completely unrelated side quest.
 
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph-black-beta.vercel.app/graph?username=Harshadha-S&bg_color=0D1117&color=FFFFFF&title_color=FFFFFF&line=7C3AED&point=60A5FA&area_color=312E81&area=true&hide_border=true&custom_title=DOMAIN%20ACTIVITY"
+  width="95%"
+  alt="GitHub Activity Graph">
+
+</div>
 ---
 
 ## `02 / CURRENT ARC`
