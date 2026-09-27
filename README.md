@@ -4,14 +4,157 @@
 
 <br><br>
 
-<h1>Hi, I'm Harshadha </h1>
+# Hi, I'm Harshadha
 
-<p>
-  <strong>Computer Science × Data Science</strong>
-</p>
+### Computer Science × Data Science · Dual Degree
 
-<p>
-  Hmmm, Cause Why Not?
-</p>
+*Hmmm, Cause Why Not?*
 
 </div>
+
+---
+
+## `01 / ABOUT`
+
+Dual degree student exploring the intersection of **Computer Science × Data Science**.
+
+Currently wandering through machine learning, cybersecurity, networking, systems, DSA, and open source.
+
+Usually somewhere between a technical rabbit hole and a completely unrelated side quest.
+
+---
+
+## `02 / CURRENT ARC`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Machine Learning
+
+`████████░░`
+
+Exploring models, algorithms, and the systems behind them.
+
+</td>
+<td width="50%">
+
+### 🔐 Cybersecurity
+
+`███████░░░`
+
+Learning security through systems, vulnerabilities, and experimentation.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Networking
+
+`███████░░░`
+
+Understanding how systems communicate beyond the application layer.
+
+</td>
+<td width="50%">
+
+### ⚔️ DSA
+
+`████████░░`
+
+Building problem-solving depth one data structure at a time.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌱 Open Source
+
+`██████░░░░`
+
+Reading codebases, contributing, and learning from real projects.
+
+</td>
+<td width="50%">
+
+### 🌀 Side Quest
+
+`∞`
+
+There is always another rabbit hole.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `03 / TECHNIQUES`
+
+### LANGUAGES
+
+`Python` · `Java` · `C` · `SQL`
+
+### ENGINEERING
+
+`Git` · `Linux` · `FastAPI` · `Full Stack`
+
+### DATA / ML
+
+`NumPy` · `Pandas` · `Scikit-learn` · `Streamlit`
+
+### CURRENTLY LEARNING
+
+`JavaScript` · `Machine Learning` · `Systems` · `Networking`
+
+---
+
+## `04 / PROJECTS`
+
+### `01` — F1 Performance Analyzer
+
+**Python · Data Analysis**
+
+Analyzing Formula 1 performance and extracting insights from race data.
+
+[View Project →](https://github.com/Harshadha-S/F1-Performance-Analyzer)
+
+---
+
+### `02` — Space Suit Thermal Analysis
+
+**Python · Scientific Computing**
+
+Exploring thermal behavior and analysis related to spacesuit systems.
+
+[View Project →](https://github.com/Harshadha-S/space-suit-thermal-analysis)
+
+---
+
+### `03` — STARTO
+
+**Python · Engineering**
+
+A project built to explore and experiment with technical problem-solving.
+
+[View Project →](https://github.com/Harshadha-S/STARTO)
+
+---
+<div align="center"> <br> <img src="./gojocat.jpg" width="180" alt="Gojo Cat">
+
+<br><br>
+
+∞
+
+still somewhere in the domain.
+
+<br>
+
+thanks for entering the domain.
+
+</div> ```
+
