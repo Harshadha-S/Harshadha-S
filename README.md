@@ -104,6 +104,8 @@ A project built to explore and experiment with technical problem-solving.
 
 <br><br>
 ∞
+
 *still somewhere in the domain.*
+
 *thanks for entering the domain.*
 </div>
